@@ -1,10 +1,10 @@
 // CONFIG
   /* AEROPORT */
-  var page_id = "156279177766549";
-  var app_id = "194284447365886";
+  var page_id = "";
+  var app_id = "";
   var app_name = "mp-reporter";
   var app_url = "//apps.facebook.com/mp-reporter/";
-  var app_abs_url = "//www.mp2.aeroport.fr/bipmod/jeux/mp-reporter/";
+  var app_abs_url = "";
   var app_page_gallery = "galerie";
   var app_page_upload = "soumettre-une-photo";
   var app_page_not_connected = "comment-participer";
